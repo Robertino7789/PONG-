@@ -1,2 +1,2 @@
-# PONG-
+# PONG!
 Simple ping pong game
